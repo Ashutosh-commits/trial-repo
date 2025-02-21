@@ -1,3 +1,4 @@
 # trial-repo
-Trying git out
-I am trying to learn how to use git and github for version control
+Trying git out.
+<br>
+I am trying to learn how to use git and github for version control.
